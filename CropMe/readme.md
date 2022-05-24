@@ -12,12 +12,12 @@
 
 ### Some results of model:
 
-![screenshot #1](screenshots/Screenshot\ from\ 2022-05-25\ 00-21-06.png)
+![screenshot #1](screenshots/Screenshot%20from%202022-05-25%2000-23-58.png)
 
-![screenshot #2](screenshots/Screenshot from 2022-05-25 00-22-56.png)
+![screenshot #2](screenshots/Screenshot%20from%202022-05-25%2000-22-56.png)
 
-![screenshot #3](screenshots/Screenshot from 2022-05-25 00-23-18.png)
+![screenshot #3](screenshots/Screenshot%20from%202022-05-25%2000-23-18.png)
 
-![screenshot #4](screenshots/Screenshot from 2022-05-25 00-23-34.png)
+![screenshot #4](screenshots/Screenshot%20from%202022-05-25%2000-23-34.png)
 
-![screenshot #5](screenshots/Screenshot from 2022-05-25 00-23-58.png)
+![screenshot #5](screenshots/Screenshot%20from%202022-05-25%2000-23-58.png)
