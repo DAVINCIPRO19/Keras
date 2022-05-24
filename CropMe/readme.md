@@ -12,7 +12,7 @@
 
 ### Some results of model:
 
-![screenshot #1](screenshots/Screenshot%20from%202022-05-25%2000-23-58.png)
+![screenshot #1](screenshots/Screenshot%20from%202022-05-25%2000-21-06.png)
 
 ![screenshot #2](screenshots/Screenshot%20from%202022-05-25%2000-22-56.png)
 
